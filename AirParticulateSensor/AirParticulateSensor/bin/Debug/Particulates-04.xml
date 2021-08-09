@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Particulates>
+  <Location name="Urpeth">
+    <Reading date="18/02/2020">
+      <value>23</value>
+      <temperature>7.5</temperature>
+      <humidity>67.0</humidity>
+    </Reading>
+    <Reading date ="19/02/2020">
+      <value>19</value>
+      <temperature>9.6</temperature>
+      <humidity>62.0</humidity>
+    </Reading>
+  </Location>
+</Particulates>

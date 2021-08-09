@@ -1,0 +1,10 @@
+C:\Users\Yi Zhan\source\repos\AirParticulateSensor\AirParticulateSensor\obj\Debug\AirParticulateSensor.csprojAssemblyReference.cache
+C:\Users\Yi Zhan\source\repos\AirParticulateSensor\AirParticulateSensor\obj\Debug\AirParticulateSensor.FormIU.resources
+C:\Users\Yi Zhan\source\repos\AirParticulateSensor\AirParticulateSensor\obj\Debug\AirParticulateSensor.Properties.Resources.resources
+C:\Users\Yi Zhan\source\repos\AirParticulateSensor\AirParticulateSensor\obj\Debug\AirParticulateSensor.csproj.GenerateResource.cache
+C:\Users\Yi Zhan\source\repos\AirParticulateSensor\AirParticulateSensor\obj\Debug\AirParticulateSensor.csproj.CoreCompileInputs.cache
+C:\Users\Yi Zhan\source\repos\AirParticulateSensor\AirParticulateSensor\bin\Debug\AirParticulateSensor.exe.config
+C:\Users\Yi Zhan\source\repos\AirParticulateSensor\AirParticulateSensor\bin\Debug\AirParticulateSensor.exe
+C:\Users\Yi Zhan\source\repos\AirParticulateSensor\AirParticulateSensor\bin\Debug\AirParticulateSensor.pdb
+C:\Users\Yi Zhan\source\repos\AirParticulateSensor\AirParticulateSensor\obj\Debug\AirParticulateSensor.exe
+C:\Users\Yi Zhan\source\repos\AirParticulateSensor\AirParticulateSensor\obj\Debug\AirParticulateSensor.pdb

@@ -1,0 +1,17 @@
+C:\Users\Yi Zhan\source\repos\AirParticulateSensor\AirParticulatesSensorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Yi Zhan\source\repos\AirParticulateSensor\AirParticulatesSensorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Yi Zhan\source\repos\AirParticulateSensor\AirParticulatesSensorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Yi Zhan\source\repos\AirParticulateSensor\AirParticulatesSensorTests\bin\Debug\AirParticulatesSensorTests.dll
+C:\Users\Yi Zhan\source\repos\AirParticulateSensor\AirParticulatesSensorTests\bin\Debug\AirParticulatesSensorTests.pdb
+C:\Users\Yi Zhan\source\repos\AirParticulateSensor\AirParticulatesSensorTests\bin\Debug\AirParticulateSensor.exe
+C:\Users\Yi Zhan\source\repos\AirParticulateSensor\AirParticulatesSensorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Yi Zhan\source\repos\AirParticulateSensor\AirParticulatesSensorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Yi Zhan\source\repos\AirParticulateSensor\AirParticulatesSensorTests\bin\Debug\AirParticulateSensor.pdb
+C:\Users\Yi Zhan\source\repos\AirParticulateSensor\AirParticulatesSensorTests\bin\Debug\AirParticulateSensor.exe.config
+C:\Users\Yi Zhan\source\repos\AirParticulateSensor\AirParticulatesSensorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Yi Zhan\source\repos\AirParticulateSensor\AirParticulatesSensorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Yi Zhan\source\repos\AirParticulateSensor\AirParticulatesSensorTests\obj\Debug\AirParticulatesSensorTests.csprojAssemblyReference.cache
+C:\Users\Yi Zhan\source\repos\AirParticulateSensor\AirParticulatesSensorTests\obj\Debug\AirParticulatesSensorTests.csproj.CoreCompileInputs.cache
+C:\Users\Yi Zhan\source\repos\AirParticulateSensor\AirParticulatesSensorTests\obj\Debug\AirParticulatesSensorTests.csproj.CopyComplete
+C:\Users\Yi Zhan\source\repos\AirParticulateSensor\AirParticulatesSensorTests\obj\Debug\AirParticulatesSensorTests.dll
+C:\Users\Yi Zhan\source\repos\AirParticulateSensor\AirParticulatesSensorTests\obj\Debug\AirParticulatesSensorTests.pdb

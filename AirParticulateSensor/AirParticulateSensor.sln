@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirParticulateSensor", "AirParticulateSensor\AirParticulateSensor.csproj", "{EB8A20C5-9746-482B-B606-8DC984465F7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirParticulatesSensorTests", "AirParticulatesSensorTests\AirParticulatesSensorTests.csproj", "{6F13106A-4985-4E2A-887A-B2BFE5ACEE15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB8A20C5-9746-482B-B606-8DC984465F7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB8A20C5-9746-482B-B606-8DC984465F7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB8A20C5-9746-482B-B606-8DC984465F7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB8A20C5-9746-482B-B606-8DC984465F7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F13106A-4985-4E2A-887A-B2BFE5ACEE15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F13106A-4985-4E2A-887A-B2BFE5ACEE15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F13106A-4985-4E2A-887A-B2BFE5ACEE15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F13106A-4985-4E2A-887A-B2BFE5ACEE15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3708E47A-F992-44B5-8D5D-D2133DAE7BEC}
+	EndGlobalSection
+EndGlobal
